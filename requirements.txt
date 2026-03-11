@@ -1,1 +1,3 @@
-streamlitopencv-python-headlessnumpy<2.0.0Pillow
+streamlit
+pandas
+fpdf2
