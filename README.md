@@ -1,0 +1,2 @@
+# trenerst
+asystent strzelca
