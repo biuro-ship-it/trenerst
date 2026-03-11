@@ -1,1 +1,1 @@
-streamlitopencv-python-headlessnumpyPillow
+streamlitopencv-python-headlessnumpy<2.0.0Pillow
